@@ -4,13 +4,13 @@
 > An unofficial fan-made NGPC adaptation of *Ghosts 'n Goblins*. This page is a development showcase, **not a download page**. No NGPC ROM is being released here yet.
 
 <p align="center">
-  <img src="docs/box-and-manual-concept.png" alt="Fan-made Ghosts 'n Goblins: A Portal Too Far Neo Geo Pocket Color case and booklet concept" width="790" />
+  <img src="box-and-manual-concept.png" alt="Fan-made Ghosts 'n Goblins: A Portal Too Far Neo Geo Pocket Color case and booklet concept" width="790" />
 </p>
 <p align="center"><em>Fan-made box and booklet artwork concept — no physical edition has been manufactured or announced.</em></p>
 
 <p align="center">
-  <img src="docs/01-title.png" alt="Actual Ghosts 'n Goblins NGPC title screen" width="310" />
-  <img src="docs/11-snk-stage-1.png" alt="Actual SNK-inspired sprite mode in gameplay" width="310" />
+  <img src="01-title.png" alt="Actual Ghosts 'n Goblins NGPC title screen" width="310" />
+  <img src="11-snk-stage-1.png" alt="Actual SNK-inspired sprite mode in gameplay" width="310" />
 </p>
 
 ## The project
@@ -24,10 +24,10 @@ The latest private development build represented here is **M51R1 (29 October 202
 ## Artwork and instruction manual
 
 <p align="center">
-  <img src="docs/manual-cover.png" alt="Ghosts 'n Goblins: A Portal Too Far — illustrated instruction manual cover" width="345" />
+  <img src="manual-cover.png" alt="Ghosts 'n Goblins: A Portal Too Far — illustrated instruction manual cover" width="345" />
 </p>
 
-**[View the full 12-page instruction manual (PDF)](docs/Ghosts_n_Goblins_M50_Manual.pdf)** — a fan-made NGPC-style booklet covering controls, weapons, stage progression, the SNK portal, helper characters, saves, records, settings and credits.
+**[View the full 12-page instruction manual (PDF)](Ghosts_n_Goblins_M50_Manual.pdf)** — a fan-made NGPC-style booklet covering controls, weapons, stage progression, the SNK portal, helper characters, saves, records, settings and credits.
 
 > **Manual version note:** This is the supplied **M50 draft manual**, retained as a development preview. The screenshots and game-status notes below are based on the newer **M51R1** build. Behaviour, wording and layout may change before release. The artwork and case mock-up are concepts, not official licensed packaging.
 
@@ -36,29 +36,29 @@ The latest private development build represented here is **M51R1 (29 October 202
 The graveyard, towers, underground areas and boss encounters are still here, reworked for the NGPC's **160 × 152** display. This is the standard visual route, rather than the SNK crossover route.
 
 <p align="center">
-<img src="docs/04-classic-stage-1.png" width="235" alt="Classic graveyard gameplay" />
-<img src="docs/05-classic-stage-2.png" width="235" alt="Classic stage 2" />
-<img src="docs/06-classic-stage-3.png" width="235" alt="Classic stage 3" />
+<img src="04-classic-stage-1.png" width="235" alt="Classic graveyard gameplay" />
+<img src="05-classic-stage-2.png" width="235" alt="Classic stage 2" />
+<img src="06-classic-stage-3.png" width="235" alt="Classic stage 3" />
 </p>
 <p align="center">
-<img src="docs/07-classic-stage-4.png" width="235" alt="Classic stage 4" />
-<img src="docs/08-classic-stage-5.png" width="235" alt="Classic stage 5" />
-<img src="docs/09-classic-stage-6.png" width="235" alt="Classic stage 6" />
+<img src="07-classic-stage-4.png" width="235" alt="Classic stage 4" />
+<img src="08-classic-stage-5.png" width="235" alt="Classic stage 5" />
+<img src="09-classic-stage-6.png" width="235" alt="Classic stage 6" />
 </p>
 <p align="center">
-<img src="docs/10-classic-stage-7.png" width="235" alt="Classic final boss stage" />
+<img src="10-classic-stage-7.png" width="235" alt="Classic final boss stage" />
 </p>
 ## SNK World — a very different turn
 
 The optional SNK route brings reworked sprites and colourful scene treatment, with an expanded story. The route starts through an in-game portal; the hidden cheat options can also preview SNK sprites without following the story route.
 
 <p align="center">
-<img src="docs/11-snk-stage-1.png" width="235" alt="SNK styled stage 1" />
-<img src="docs/12-snk-stage-3.png" width="235" alt="SNK styled stage 3" />
-<img src="docs/13-snk-stage-5.png" width="235" alt="SNK styled stage 5" />
+<img src="11-snk-stage-1.png" width="235" alt="SNK styled stage 1" />
+<img src="12-snk-stage-3.png" width="235" alt="SNK styled stage 3" />
+<img src="13-snk-stage-5.png" width="235" alt="SNK styled stage 5" />
 </p>
 <p align="center">
-<img src="docs/14-snk-stage-7.png" width="235" alt="SNK styled final boss stage" />
+<img src="14-snk-stage-7.png" width="235" alt="SNK styled final boss stage" />
 </p>
 > **About the stage screenshots:** some later-stage and SNK previews were captured through the game's development/cheat stage selection. **LOCKED** in the HUD is intentional: cheat-assisted runs are excluded from ranked scores. These are direct emulator frames, not edited gameplay mock-ups.
 
@@ -75,17 +75,17 @@ The optional SNK route brings reworked sprites and colourful scene treatment, wi
 ### Menus, settings and development previews
 
 <p align="center">
-<img src="docs/15-options.png" width="235" alt="Options menu including Ranked and Free saving" />
-<img src="docs/16-lives-continues.png" width="235" alt="Lives and continues and ranked eligibility" />
-<img src="docs/17-stage-select-debug.png" width="235" alt="Hidden development cheat stage select" />
+<img src="15-options.png" width="235" alt="Options menu including Ranked and Free saving" />
+<img src="16-lives-continues.png" width="235" alt="Lives and continues and ranked eligibility" />
+<img src="17-stage-select-debug.png" width="235" alt="Hidden development cheat stage select" />
 </p>
 ## The opening story
 
 Even before the main game gets going, Arthur is already dealing with a peculiar invitation.
 
 <p align="center">
-<img src="docs/02-karin-intro.png" width="235" alt="Karin appears in the animated opening" />
-<img src="docs/03-arthur-intro.png" width="235" alt="Arthur in the opening scene" />
+<img src="02-karin-intro.png" width="235" alt="Karin appears in the animated opening" />
+<img src="03-arthur-intro.png" width="235" alt="Arthur in the opening scene" />
 </p>
 ## Ending showcase — major spoilers
 
@@ -97,38 +97,38 @@ The SNK ending doesn't just show a static closing image. After the final *Ghosts
 ### Arthur joins the fight
 
 <p align="center">
-<img src="docs/18-terry-vs-evil-ryu.png" width="220" alt="Terry and Evil Ryu crossover arena" />
-<img src="docs/19-firing-with-terry.png" width="220" alt="Arthur throwing while Terry remains visible" />
-<img src="docs/20-crossover-ko.png" width="220" alt="Evil Ryu K.O. sequence" />
+<img src="18-terry-vs-evil-ryu.png" width="220" alt="Terry and Evil Ryu crossover arena" />
+<img src="19-firing-with-terry.png" width="220" alt="Arthur throwing while Terry remains visible" />
+<img src="20-crossover-ko.png" width="220" alt="Evil Ryu K.O. sequence" />
 </p>
 The latest M51R1 fix keeps Terry visible when Arthur throws and scales Arthur up for this arena. The finishing blow is triggered by gameplay, not by playing a pre-recorded movie.
 
 ### The unexpected mission: flowers, chocolates and an apology
 
 <p align="center">
-<img src="docs/21-terry-dialogue.png" width="220" alt="Terry after the crossover fight" />
-<img src="docs/22-arthur-flowers.png" width="220" alt="Arthur wonders why every portal requires a boss fight" />
-<img src="docs/23-arthur-shopping-quest.png" width="220" alt="Arthur discovers a shopping quest" />
+<img src="21-terry-dialogue.png" width="220" alt="Terry after the crossover fight" />
+<img src="22-arthur-flowers.png" width="220" alt="Arthur wonders why every portal requires a boss fight" />
+<img src="23-arthur-shopping-quest.png" width="220" alt="Arthur discovers a shopping quest" />
 </p>
 <p align="center">
-<img src="docs/24-karin-returns.png" width="220" alt="Karin returns" />
-<img src="docs/25-mai-advice.png" width="220" alt="Mai offers advice" />
-<img src="docs/26-chunli-advice.png" width="220" alt="Chun-Li advice" />
+<img src="24-karin-returns.png" width="220" alt="Karin returns" />
+<img src="25-mai-advice.png" width="220" alt="Mai offers advice" />
+<img src="26-chunli-advice.png" width="220" alt="Chun-Li advice" />
 </p>
 <p align="center">
-<img src="docs/27-morrigan-advice.png" width="220" alt="Morrigan offers advice" />
-<img src="docs/28-athena-gifts.png" width="220" alt="Athena introduces the gifts" />
-<img src="docs/29-arthur-apology.png" width="220" alt="Arthur plans an apology" />
+<img src="27-morrigan-advice.png" width="220" alt="Morrigan offers advice" />
+<img src="28-athena-gifts.png" width="220" alt="Athena introduces the gifts" />
+<img src="29-arthur-apology.png" width="220" alt="Arthur plans an apology" />
 </p>
 ### Gifts, the way home and credits
 
 <p align="center">
-<img src="docs/30-gifts-scene.png" width="220" alt="Flowers and chocolates from the crossover cast" />
-<img src="docs/31-gifts-exit.png" width="220" alt="Gifts and portal departure" />
+<img src="30-gifts-scene.png" width="220" alt="Flowers and chocolates from the crossover cast" />
+<img src="31-gifts-exit.png" width="220" alt="Gifts and portal departure" />
 </p>
 <p align="center">
-<img src="docs/32-homecoming.png" width="220" alt="A classic-world homecoming" />
-<img src="docs/33-rolling-credits.png" width="220" alt="Rolling credits" />
+<img src="32-homecoming.png" width="220" alt="A classic-world homecoming" />
+<img src="33-rolling-credits.png" width="220" alt="Rolling credits" />
 </p>
 And yes: the trip home still has a *Ghosts 'n Goblins* sense of humour. **The Classic route does not contain this SNK crossover fight.**
 
@@ -140,7 +140,7 @@ And yes: the trip home still has a *Ghosts 'n Goblins* sense of humour. **The Cl
 
 The normal development ROM is intended for a compatible **Neo Geo Pocket Color emulator or original NGPC hardware**, but it is **not publicly downloadable from this repository yet**. There is no release, install guide or download link to follow at present.
 
-For details on the gameplay rules and what is currently verified, see [Gameplay & status](docs/GAMEPLAY_AND_STATUS.md). For the illustrated draft booklet, [read the M50 instruction manual](docs/Ghosts_n_Goblins_M50_Manual.pdf).
+For details on the gameplay rules and what is currently verified, see [Gameplay & status](GAMEPLAY_AND_STATUS.md). For the illustrated draft booklet, [read the M50 instruction manual](Ghosts_n_Goblins_M50_Manual.pdf).
 
 ## Current development status
 
